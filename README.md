@@ -28,18 +28,18 @@ URL or file to import, or none for new?       | `press ENTER to start with a new
 
 **question**                              | **answer**                        | **example**
 ----------------------------------------- | --------------------------------- | --------------------------------
-What's the name of your extension?        | `<language>`                      | Duckie Duck
-What's the identifier of your extension?  | `<language shorname>lang`         | ducklang
-What's the description of your extension? | `<language> Programming Language` | Duckie Duck Programming Language
+What's the name of your extension?        | `<language>`                      | Waffle
+What's the identifier of your extension?  | `<language shorname>lang`         | wafflelang
+What's the description of your extension? | `<language> Programming Language` | Waffle Programming Language
 
 ### 3. Language
 
 **question**    | **answer**                    | **example**
 --------------- | ----------------------------- | --------------------------------
-Language id     | `<language shorname>`         | duck
-Language name   | `<language>`                  | Duckie Duck
-File extensions | `.<language shortname>`       | .duck
-Scope names     | `source.<language shortname>` | source.duck
+Language id     | `<language shorname>`         | waffle
+Language name   | `<language>`                  | Waffle
+File extensions | `.<language shortname>`       | .waffle
+Scope names     | `source.<language shortname>` | source.waffle
 
 ### 4. Git
 
