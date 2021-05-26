@@ -18,7 +18,7 @@ Boilerlplate project for generating your own language in Visual Studio Code
 
 ### 1. Initialize
 
-1. terminal > npm run langgen:init
+1. terminal > `npm run langgen:init`
 2. select `New Language Support`
 3. `press ENTER to start with a new grammar`
 
