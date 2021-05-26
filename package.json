@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "license": "NCSA",
     "scripts": {
-        "init": "npx yo code"
+        "langgen:init": "npx yo code"
     },
     "devDependencies": {
         "yo": "4.2.0",
