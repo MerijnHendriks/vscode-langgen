@@ -10,8 +10,8 @@ Boilerlplate project for generating your own language in Visual Studio Code
 
 ## Setup
 
-1. `git clone https://github.com/MerijnHendriks/vscode-langgen.git`
-2. open `vscode-langgen` in vscode
+1. open vscode
+2. terminal > `git clone https://github.com/MerijnHendriks/vscode-langgen.git`
 3. terminal > `npm install`
 4. terminal > `npm run langgen:init`
 
