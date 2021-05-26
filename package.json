@@ -1,0 +1,13 @@
+{
+    "name": "vscode-langgen",
+    "author": "Merijn Hendriks",
+    "version": "1.0.0",
+    "license": "NCSA",
+    "scripts": {
+        "langgen:init": "npx yo code"
+    },
+    "devDependencies": {
+        "yo": "4.2.0",
+        "generator-code": "1.4.17"
+    }
+}
