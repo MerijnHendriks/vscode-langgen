@@ -5,7 +5,7 @@ Boilerlplate project for generating your own language in Visual Studio Code
 ## Requirements
 
 - git
-- node 12+
+- node
 - vscode
 
 ## Setup
